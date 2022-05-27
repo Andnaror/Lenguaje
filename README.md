@@ -3,6 +3,8 @@
 Lenguaje Propio proyecto 1 - Compiladores - Universidad del Magdalena
 Andree Narvaez 2018114133
 
+TRABAJO DE REFERENCIA Y AGRADECIMIENTO: https://github.com/dmomotic/matriosh-ts
+
 ## Install the dependencies
 ```bash
 npm install
